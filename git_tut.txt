@@ -1,0 +1,33 @@
+#####################
+git cheatsheet
+#####################
+
+config
+
+1)git config --global user.name "user_name"
+2)git config --global user.email "email_id"
+
+creating a local repositry
+
+3)git init firsti_rpo <------- repoitry
+
+4)cd first_rpo
+
+creating a README file to explain about the repositry
+
+5)gedit README
+
+Adding files to index
+
+6) git add file1 file2
+
+7) git commit -m "first commit"
+
+8) open git hub account and click + sign create same repositry you have 
+   created in terminal
+
+9) git remote add origin https://github.com/user_name/Mytest.git
+
+10)git push origin master
+
+
